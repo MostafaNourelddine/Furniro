@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa",
+    "price": 899.99,
+    "category": "Living Room",
+    "imageUrl": "https://th.bing.com/th/id/OIP.rn5b-cAcg8Sf_V545Xv5IgHaHa?pid=ImgDet&w=208&h=208&c=7&dpr=1.1",
+    "purpose": "Seating",
+    "description": "Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!",
+    "discount": 0,
+    "state": "",
+    "date": "22-04-2024"
+  },
+
+  {
+    "id": 2,
+    "name": "Coffee Table",
+    "price": 299.99,
+    "category": "Living Room",
+    "imageUrl": "https://s3.amazonaws.com/sierraimages/Images/Product/Large/1436.jpg",
+    "purpose": "Table",
+    "description": "Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!",
+    "discount": 50,
+    "state": "",
+    "date": "21-04-2024"
+  },
+
+  {
+    "id": 3,
+    "name": "Executive Desk",
+    "price": 499.99,
+    "category": "Office",
+    "imageUrl": "https://th.bing.com/th/id/R.cfef065fbdd539e86274b8672355950d?rik=HwRen7h2wVME9A&pid=ImgRaw&r=0",
+    "purpose": "Working",
+    "description": "sLorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!",
+    "discount": 50,
+    "state": "new",
+    "date": "20-04-2024"
+  },
+
+  {
+    "id": 4,
+    "name": "Bookshelf",
+    "price": 259.99,
+    "category": "Living Room",
+    "imageUrl": "https://th.bing.com/th/id/R.738c76989c18db5b27e26423ac5493a9?rik=u8yR%2f74rLL%2bzfA&pid=ImgRaw&r=0",
+    "purpose": "Storage",
+    "description": "Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!",
+    "discount": 50,
+    "state": "new",
+    "date": "19-04-2024"
+  },
+
+  {
+    "id": 5,
+    "name": "Dining Set",
+    "price": 1199.99,
+    "category": "Dining Room",
+    "imageUrl": "https://th.bing.com/th/id/R.3ba38bc0b52ecd6020a9969048a0dbdf?rik=iHJTzgnOHRc5Lw&pid=ImgRaw&r=0",
+    "purpose": "Dining",
+    "description": "Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!ipsum dolor sit amet consectetur adipisicing elit. Pariatur, exercitationem fugiat. Expedita reiciendis architecto saepe. Similique, asperiores. Explicabo fugit, unde aut voluptas atque cumque exercitationem, labore reprehenderit rem doloribus velit!",
+    "discount": 50,
+    "state": "new",
+    "date": "18-04-2024"
+  }
+]
